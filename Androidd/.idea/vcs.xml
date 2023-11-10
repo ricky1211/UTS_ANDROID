@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Android/Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bahasa Pemrograman" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bahasa Pemrograman/Lab2Web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bahasa Pemrograman/Lab2Web/Lab2Web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bahasa Pemrograman/Lab3Web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bahasa Pemrograman/Lab3Web/Lab3Web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bahasa Pemrograman/Lab4Web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bahasa Pemrograman/Lab5Web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bahasa Pemrograman/Lab5Web/Lab5Web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bahasa Pemrograman/Lab6Web/Lab6Web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RickyApps" vcs="Git" />
+  </component>
+</project>
